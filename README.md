@@ -24,7 +24,6 @@ Adoro desafios que envolvam Logical Reasoning e Codificação. E nas horas vagas
 
 ## 🎓 Formação Acadêmica
 
-**⚠️ Cole sua formação acadêmica aqui, conforme seu LinkedIn ⚠️**
 
 -   **Administração de empresas/ Uninove**
     * 2011 - 2014
@@ -39,14 +38,13 @@ Adoro desafios que envolvam Logical Reasoning e Codificação. E nas horas vagas
     * Certificação Adicional
 -   **Engenharia de Dados com Airflow/ Alura**
     * Certificação Adicional
- -   **Metabase do zero/ Udemy**
+-   **Metabase do zero/ Udemy**
     * Certificação Adicional
 
 ---
 
 ## 💼 Experiência
 
-**⚠️ Cole sua experiência profissional aqui, focando nos pontos chave ⚠️**
 
 -   BI & Analytics: Criação de dashboards estratégicos (Power BI, Zoho, Looker, Metabase). Especialista em definição e análise de KPIs e OKRs para tomada de decisão.
 -   Data Engineering: Gestão de Bancos de Dados Analytics, criação de tabelas e desenvolvimento de Pipelines ETL/ELT usando Airflow e Airbyte.
